@@ -1,2 +1,3 @@
 # spotify-playlist-sorter
-sort a playlist into its mathematically ideal order
+
+Sort a playlist into its mathematically ideal order using graph theory and the spotify API
